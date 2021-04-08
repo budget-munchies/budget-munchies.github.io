@@ -9,6 +9,10 @@ Students will be able to search, filter, and post recipes to the site. The recip
 
 There will also be a vendor section where food vendors can contribute ingredient availability and price. 
 
+### Mockup landing page
+
+<img src="/land.png">
+
 ## Team
 Sydney, Kieran, Marissa, Nanami
 
