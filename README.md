@@ -2,7 +2,12 @@
 budget munchies home page!
 
 ## Overview
-Budget Munchies project! 
+This project offers a solution for college students on the hunt for recipes that are cheap, easy to make, and have limited ingredients. 
+Users will be able to share recipe that have information such as cost per meal, appliances needed, dietary restrictions, time it takes to make, etc. 
+
+Students will be able to search, filter, and post recipes to the site. The recipes should at least include information on how and where to obtain the ingredients, a picture of the finished meal, and the directins itself. 
+
+There will also be a vendor section where food vendors can contribute ingredient availability and price. 
 
 ## Team
 Sydney, Kieran, Marissa, Nanami
