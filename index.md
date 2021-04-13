@@ -13,6 +13,31 @@ There will also be a vendor section where food vendors can contribute ingredient
 
 <img src="/land.png">
 
+### Mockup sign in/sign up page
+<img src="/signin-signup.PNG">
+
+### Mockup user home page
+<img src="/user-home.PNG">
+
+### Mockup add recipe page
+<img src="/add-recipe.PNG">
+
+## Deployment 
+
+<digital ocean deployment link goes here>
+  
+## Project Page
+
+https://github.com/budget-munchies/budget-munchies-project/projects/1
+
+## Github Organization
+
+https://github.com/budget-munchies
+
+### M2
+https://github.com/budget-munchies/budget-munchies-project/projects/2
+
+
 ## Team
 Sydney, Kieran, Marissa, Nanami
 
@@ -23,10 +48,10 @@ User home page
 Admin home page
 Vendor home page
 User profile page
+Add Recipe page
 Search recipe page
-Individual recipe page
 
-## Extras
+## Possible Extras
 Maps for locating vendors.
 Based upon open hours for vendors, indicate which ingredients can be bought right now.
 Ratings and review system for recipes.
