@@ -43,20 +43,20 @@ Sydney, Kieran, Marissa, Nanami
 
 
 ## Mockup ideas
-Landing page
-User home page
-Admin home page
-Vendor home page
-User profile page
-Add Recipe page
+Landing page,
+User home page,
+Admin home page,
+Vendor home page,
+User profile page,
+Add Recipe page,
 Search recipe page
 
 ## Possible Extras
-Maps for locating vendors.
-Based upon open hours for vendors, indicate which ingredients can be bought right now.
-Ratings and review system for recipes.
-Ratings and review system for vendors.
-Notification system for vendors when new items are posted in recipes so they can update their listing to indicate whether they stock it or not.
+Maps for locating vendors,
+Based upon open hours for vendors, indicate which ingredients can be bought right now,
+Ratings and review system for recipes,
+Ratings and review system for vendors,
+Notification system for vendors when new items are posted in recipes so they can update their listing to indicate whether they stock it or not,
 Notification system when price for a recipe drops substantially (i.e. a vendor puts an item on sale.)
 
 ## Team
