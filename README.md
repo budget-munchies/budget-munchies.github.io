@@ -34,6 +34,9 @@ https://github.com/budget-munchies/budget-munchies-project/projects/1
 
 https://github.com/budget-munchies
 
+### M2
+https://github.com/budget-munchies/budget-munchies-project/projects/2
+
 
 ## Team
 Sydney, Kieran, Marissa, Nanami
