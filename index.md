@@ -24,7 +24,7 @@ There will also be a vendor section where food vendors can contribute ingredient
 
 ## Deployment 
 
-<digital ocean deployment link goes here>
+digital ocean deployment link goes here
   
 ## Project Page
 
