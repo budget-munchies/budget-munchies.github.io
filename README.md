@@ -13,6 +13,15 @@ There will also be a vendor section where food vendors can contribute ingredient
 
 <img src="/land.png">
 
+### Mockup sign in/sign up page
+<img src="/signin-signup.PNG">
+
+### Mockup user home page
+<img src="/user-home.PNG">
+
+### Mockup add recipe page
+<img src="/add-recipe.PNG">
+
 ## Team
 Sydney, Kieran, Marissa, Nanami
 
