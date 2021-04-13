@@ -32,9 +32,8 @@ https://github.com/budget-munchies/budget-munchies-project/projects/1
 
 ## Github Organization
 
-https://github.com/budget-munchies/budget-munchies-project
-# Footer
-https://github.com/budget-munchies/budget-munchies-project/tree/footer
+https://github.com/budget-munchies
+
 
 ## Team
 Sydney, Kieran, Marissa, Nanami
