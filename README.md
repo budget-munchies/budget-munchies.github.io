@@ -22,6 +22,20 @@ There will also be a vendor section where food vendors can contribute ingredient
 ### Mockup add recipe page
 <img src="/add-recipe.PNG">
 
+## Deployment 
+
+<digital ocean deployment link goes here>
+  
+## Project Page
+
+https://github.com/budget-munchies/budget-munchies-project/projects/1
+
+## Github Organization
+
+https://github.com/budget-munchies/budget-munchies-project
+# Footer
+https://github.com/budget-munchies/budget-munchies-project/tree/footer
+
 ## Team
 Sydney, Kieran, Marissa, Nanami
 
