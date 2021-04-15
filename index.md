@@ -28,9 +28,10 @@ digital ocean deployment link goes here
   
 ## Project Pages
 
+# M1
 https://github.com/budget-munchies/budget-munchies-project/projects/1
 
-### M2
+# M2
 https://github.com/budget-munchies/budget-munchies-project/projects/2
 
 ## Github Organization
