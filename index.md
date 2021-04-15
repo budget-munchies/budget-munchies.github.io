@@ -1,7 +1,7 @@
-### budget-munchies.github.io
+# budget-munchies.github.io
 budget munchies home page!
 
-### Overview
+# Overview
 This project offers a solution for college students on the hunt for recipes that are cheap, easy to make, and have limited ingredients. 
 Users will be able to share recipe that have information such as cost per meal, appliances needed, dietary restrictions, time it takes to make, etc. 
 
@@ -34,7 +34,7 @@ https://github.com/budget-munchies/budget-munchies-project/projects/1
 ### M2
 https://github.com/budget-munchies/budget-munchies-project/projects/2
 
-## Github Organization
+# Github Organization
 
 https://github.com/budget-munchies
 
