@@ -5,7 +5,7 @@ budget munchies home page!
 This project offers a solution for college students on the hunt for recipes that are cheap, easy to make, and have limited ingredients. 
 Users will be able to share recipes that have information such as cost per meal, appliances needed, dietary restrictions, time it takes to make, etc. 
 
-Students will be able to search, filter, and post recipes to the site. The recipes should at least include full ingredients list, appliance used, a picture of the finished meal, and the directions itself. 
+Students will be able to browse, filter, and post recipes to the site. The recipes should at least include full ingredients list, appliance used, a picture of the finished meal, and the directions itself. 
 
 Vendors will be able to post about ingredient avialability and sales. 
 
@@ -46,7 +46,7 @@ Admin home page,
 Vendor home page,
 User profile page,
 Add Recipe page,
-Search recipe page
+Filter/browse recipes Page
 
 # Possible Extras
 Maps for locating vendors,
