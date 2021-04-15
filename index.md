@@ -26,21 +26,16 @@ There will also be a vendor section where food vendors can contribute ingredient
 
 digital ocean deployment link goes here
   
-## Project Page
+## Project Pages
 
 https://github.com/budget-munchies/budget-munchies-project/projects/1
-
-## Github Organization
-
-https://github.com/budget-munchies
 
 ### M2
 https://github.com/budget-munchies/budget-munchies-project/projects/2
 
+## Github Organization
 
-## Team
-Sydney, Kieran, Marissa, Nanami
-
+https://github.com/budget-munchies
 
 ## Mockup ideas
 Landing page,
