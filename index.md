@@ -11,33 +11,38 @@ Vendors will be able to post about ingredient avialability and sales.
 
 # Mockups
 ### Mockup landing page
-
+This is the original design of our landing page. We decided on the color scheme and basic layout. 
 <img src="/land.png">
 
 ### Mockup sign in/sign up page
+This is a mockup of a sign in or sign up page. It looks similar to the original landing page with some tweaks. 
 <img src="/signin-signup.PNG">
 
 ### Mockup user home page
+This is the mockup design fo rthe user home page. When the user signs in, or signs up, this is the page they will be directed to after. 
 <img src="/user-home.PNG">
 
 ### Mockup add recipe page
+This is a mockup of a page whers users can add recipes. 
 <img src="/add-recipe.PNG">
 
 # Deployment 
 
-digital ocean deployment link goes here
+[IP address link for Digital Ocean](http://104.236.116.242/#/)
+
+As of writing this, our domain is still being process by Digital Ocean. This link will be replaced with the proper domain when available.
   
 # Project Pages
 
 ### M1
-https://github.com/budget-munchies/budget-munchies-project/projects/1
+[Milestone 1 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/1)
 
 ### M2
-https://github.com/budget-munchies/budget-munchies-project/projects/2
+[Milestone 2 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/2)
 
 # Github Organization
 
-https://github.com/budget-munchies
+[Budget Munchies](https://github.com/budget-munchies)
 
 # Mockup ideas
 Landing page,
@@ -57,4 +62,4 @@ Notification system for vendors when new items are posted in recipes so they can
 Notification system when price for a recipe drops substantially (i.e. a vendor puts an item on sale.)
 
 # Team
-Sydney, Kieran, Marissa, Nanami
+[Sydney](https://sydney-c7.github.io), [Kieran](https://kieran-k.github.io), [Marissa](https://marissahalim.github.io), [Nanami](https://nakimoto.github.io)
