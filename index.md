@@ -58,7 +58,8 @@ User home page,
 Admin home page,
 User profile page,
 Add Recipe page,
-Filter/browse recipes Page
+Filter/browse recipes Page,
+Vendor info page
 
 # Possible Extras
 Maps for locating vendors,
