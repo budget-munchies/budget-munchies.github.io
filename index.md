@@ -9,19 +9,19 @@ Students will be able to search, browse, filter, and post recipes to the site. T
 
 # Mockups
 ### Mockup landing page
-This is the original design of our landing page. We decided on the color scheme and basic layout. 
+This is the original team favorite design of our landing page. Our team all created test landing page mockups and we went with this one for the design and color scheme. 
 <img src="/land.png">
 
-### Mockup sign in/sign up page
-This is a mockup of a sign in or sign up page. It looks similar to the original landing page with some tweaks. 
+### Alternative landing page
+This is an alternative of the lading page. It looks similar to the original landing page with some tweaks. This was created after deciding the colors and design we wanted to follow.  
 <img src="/signin-signup.PNG">
 
 ### Mockup user home page
-This is the mockup design fo rthe user home page. When the user signs in, or signs up, this is the page they will be directed to after. 
+This is the mockup design for the user home page. When the user signs in, or signs up, this is the page they will be directed to after. 
 <img src="/user-home.PNG">
 
 ### Mockup add recipe page
-This is a mockup of a page whers users can add recipes. 
+This is a mockup of a page where users can add recipes. 
 <img src="/add-recipe.PNG">
 
 # Deployment 
@@ -33,7 +33,7 @@ As of writing this, our domain is still being process by Digital Ocean. This lin
 # Current state of the project
 
 ## Landing/home page 
-This is the current landing/home page. When the program is run form terminal, this is what shows automatically on the localhost. 
+This is the current landing/home page. When the program is run from terminal, this is what shows automatically on the localhost. 
 <img src="/landing2.jpg">
 
 ## Add Recipe
