@@ -34,11 +34,11 @@ As of writing this, our domain is still being process by Digital Ocean. This lin
 
 ## Landing/home page 
 This is the current landing/home page. When the program is run form terminal, this is what shows automatically on the localhost. 
-<img src="/landing2.PNG">
+<img src="/landing2.jpg">
 
 ## Add Recipe
 This is the add recipe page. Users can add recipes and select different requirements such as dietary resctrictions, ingredients, meal type, appliances, etc. 
-<img src="/add.PNG">
+<img src="/add.jpg">
   
 # Project Pages
 
