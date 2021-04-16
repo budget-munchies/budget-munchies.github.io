@@ -29,6 +29,16 @@ This is a mockup of a page whers users can add recipes.
 [IP address link for Digital Ocean](http://104.236.116.242/#/)
 
 As of writing this, our domain is still being process by Digital Ocean. This link will be replaced with the proper domain when available.
+
+# Current state of the project
+
+## Landing/home page 
+This is the current landing/home page. When the program is run form terminal, this is what shows automatically on the localhost. 
+<img src="/landing2.PNG">
+
+## Add Recipe
+This is the add recipe page. Users can add recipes and select different requirements such as dietary resctrictions, ingredients, meal type, appliances, etc. 
+<img src="/add.PNG">
   
 # Project Pages
 
