@@ -7,8 +7,6 @@ Users will be able to share recipes that have information such as cost per meal,
 
 Students will be able to search, browse, filter, and post recipes to the site. The recipes should at least include full ingredients list, appliance used, a picture of the finished meal, and the directions itself. 
 
-Vendors will be able to post about ingredient avialability and sales. 
-
 # Mockups
 ### Mockup landing page
 This is the original design of our landing page. We decided on the color scheme and basic layout. 
@@ -48,14 +46,12 @@ As of writing this, our domain is still being process by Digital Ocean. This lin
 Landing page,
 User home page,
 Admin home page,
-Vendor home page,
 User profile page,
 Add Recipe page,
 Filter/browse recipes Page
 
 # Possible Extras
 Maps for locating vendors,
-Based upon open hours for vendors, indicate which ingredients can be bought right now,
 Ratings and review system for recipes,
 Ratings and review system for vendors,
 Notification system for vendors when new items are posted in recipes so they can update their listing to indicate whether they stock it or not,
