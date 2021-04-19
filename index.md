@@ -1,5 +1,5 @@
-# budget-munchies.github.io
-budget munchies home page!
+# Budget Munchies
+Wlecome to the Budget Munchies home page!
 
 # Overview
 This project offers a solution for college students on the hunt for recipes that are cheap, easy to make, and have limited ingredients. 
