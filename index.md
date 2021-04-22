@@ -7,6 +7,9 @@ Users will be able to share recipes that have information such as cost per meal,
 
 Students will be able to search, browse, filter, and post recipes to the site. The recipes should at least include full ingredients list, appliance used, a picture of the finished meal, and the directions itself. 
 
+# User Guide
+This will be finalized for M2 closer to the deadline. Up to date screenshots and explanation of functionality goes here. Guiding user through what we currently have. 
+
 # Mockups
 ### Mockup landing page
 This is the original team favorite design of our landing page. Our team all created test landing page mockups and we went with this one for the design and color scheme. 
@@ -51,6 +54,9 @@ This is the add recipe page. Users can add recipes and select different requirem
 # Github Organization
 
 [Budget Munchies](https://github.com/budget-munchies)
+
+# Developer Guide
+Explanation of how to download, install, and run the system via github, meteor, and terminal/command line.
 
 # Mockup ideas
 * Landing page
