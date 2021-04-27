@@ -31,8 +31,6 @@ This is a mockup of a page where users can add recipes.
 
 [Budget Munchies deployed on Digital Ocean](https://budgetmunchies.xyz/#/)
 
-As of writing this, our domain is still being process by Digital Ocean. This link will be replaced with the proper domain when available.
-
 # Current state of the project
 
 ## Landing/home page 
