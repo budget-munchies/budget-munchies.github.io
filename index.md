@@ -1,5 +1,5 @@
 # Budget Munchies
-Wlecome to the Budget Munchies home page!
+Welcome to the Budget Munchies home page!
 
 # Overview
 This project offers a solution for college students on the hunt for recipes that are cheap, easy to make, and have limited ingredients. 
@@ -56,6 +56,10 @@ This is the add recipe page. Users can add recipes and select different requirem
 
 ### M2
 [Milestone 2 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/2)
+
+### M3
+
+[Milestone 3 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/3)
 
 # Github Organization
 
