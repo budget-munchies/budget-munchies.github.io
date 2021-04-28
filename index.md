@@ -68,7 +68,7 @@ This guide is an explanation of how to download, install, and run the system via
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, download this repository to your computer. You can download it as a zip file, or you can click the "Use as template" button to create your own copy of the system, then clone it to your local computer.
+Second, download [Budget Munchies Repository](https://github.com/budget-munchies/budget-munchies-project) to your computer using the green code button. You can download it as a zip file, or you can click open with GitHub desktop. 
 
 Third, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 
@@ -133,6 +133,10 @@ You can verify that the code obeys our coding standards by running ESLint over t
 ```
 meteor npm run lint
 ```
+
+### Testing with TestCafe
+
+This application has continuous integration and testing with TestCafe. Tests should run automatically, otherwise you need to Control C out of the terminal/command window, and invoke "meteor npm run testcafe" insdie the app directory. This will run the created tests. 
 
 ### Prerequisites
 
