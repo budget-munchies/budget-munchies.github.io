@@ -71,17 +71,8 @@ This is a mockup of a page where users can add recipes.
     <img alt="Tested with TestCafe" src="https://img.shields.io/badge/tested%20with-TestCafe-2fa4cf.svg">
 </a>
 
-
 # Current state of the project
-
-## Landing/home page 
-This is the current landing/home page. When the program is run from terminal, this is what shows automatically on the localhost. 
-<img src="/landing2.jpg">
-
-## Add Recipe
-This is the add recipe page. Users can add recipes and select different requirements such as dietary resctrictions, ingredients, meal type, appliances, etc. 
-<img src="/add.jpg">
-  
+  Please view the [User Guide](#user-guide) for the current state of the project. 
 # Project Pages
 
 ### M1
