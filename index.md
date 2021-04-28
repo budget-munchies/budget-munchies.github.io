@@ -172,7 +172,7 @@ meteor npm run lint
 
 ### Testing with TestCafe
 
-This application has continuous integration and testing with TestCafe. Tests should run automatically, otherwise you need to Control C out of the terminal/command window, and invoke "meteor npm run testcafe" insdie the app directory. This will run the created tests. 
+This application has continuous integration and testing with TestCafe. Tests should run automatically, otherwise you need to Control C out of the terminal/command window, and invoke "meteor npm run testcafe" inside the app directory. This will run the created tests. 
 
 ### Prerequisites
 
