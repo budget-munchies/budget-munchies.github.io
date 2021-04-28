@@ -69,7 +69,8 @@ This is a mockup of a page where users can add recipes.
 [Budget Munchies deployed on Digital Ocean](https://budgetmunchies.xyz/#/)
 
 ## Testing and Continuous Integration
-Current testcafe results locally as of m2 completion:
+# Current testcafe results locally as of m2 completion.
+
 <img src="/testcafe.png">
 ![ci-badge](https://github.com/budget-munchies/budget-munchies-project/workflows/ci-budget-munchies-project/badge.svg)
 
