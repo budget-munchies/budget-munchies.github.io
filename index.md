@@ -72,6 +72,7 @@ This is a mockup of a page where users can add recipes.
 ### Current testcafe results locally as of M2 completion.
 
 <img src="/testcafe.png">
+
 ![ci-badge](https://github.com/budget-munchies/budget-munchies-project/workflows/ci-budget-munchies-project/badge.svg)
 
 <a href="https://github.com/DevExpress/testcafe">
