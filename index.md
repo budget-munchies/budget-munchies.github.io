@@ -1,3 +1,15 @@
+# TABLE OF CONTENTS
+***
+* [Overview](#overview)
+* [User Guide](#user-guide)
+* [Current State of the Project](#current-state-of-the-project)
+* [Project Pages](#project-pages)
+* [Deployment](#deployment)
+* [Developer Guide](#developer-guide)
+* [Team](#team)
+
+
+
 # Budget Munchies
 Welcome to the Budget Munchies home page!
 
@@ -31,7 +43,7 @@ This is a mockup of a page where users can add recipes.
 
 [Budget Munchies deployed on Digital Ocean](https://budgetmunchies.xyz/#/)
 
-# Testing and Continuous Integration
+## Testing and Continuous Integration
 ![ci-badge](https://github.com/budget-munchies/budget-munchies-project/workflows/ci-budget-munchies-project/badge.svg)
 
 <a href="https://github.com/DevExpress/testcafe">
