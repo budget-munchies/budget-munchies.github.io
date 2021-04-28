@@ -1,3 +1,7 @@
+
+# Budget Munchies
+Welcome to the Budget Munchies home page!
+
 # TABLE OF CONTENTS
 
 * [Overview](#overview)
@@ -8,9 +12,6 @@
 * [Developer Guide](#developer-guide)
 * [Team](#team)
 
-
-# Budget Munchies
-Welcome to the Budget Munchies home page!
 
 # Overview
 This project offers a solution for college students on the hunt for recipes that are cheap, easy to make, and have limited ingredients. 
