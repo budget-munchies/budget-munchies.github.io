@@ -22,23 +22,27 @@ Students will be able to search, browse, and post recipes to the site. The recip
 # User Guide
 ## Landing (Signed Out)
 Upon visiting the Budget Munchies site, you will arrive on the initial landing page, without user sign in.
-
 <img src="/m2landing.png">
 ## Sign-in Page
 This is the sign in page that you will see after clicking login. 
 <img src="/m2signin.png">
+
 ## Landing (Signed In)
 This is the landing page after user sign in. Sign in enables you to see additional pages and elements. 
 <img src="/m2signedinlanding.png">
+
 ## Add recipe Page
 This page shows the add recipes function. Recipes can be submitted to the website and much include specific details such as appliance, type of meal, dietary restrictions, etc. 
 <img src="/m2add.png">
+
 ## List Recipes Page
 This page will show a list of recipes. It currently shows a stock table database. 
 <img src="/m2list.png">
+
 ## Browse Recipes dropdown Menu
 Brose recipes is a dropdown menu that allows you to click on the specific type of meal you are searching for. 
 <img src="/m2browse.png">
+
 ## Search
 You will be able to search for specific recipes. This also shows our 'not found' page becuase search is currently not implemented. 
 <img src="/m2search.png">
