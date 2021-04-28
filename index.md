@@ -1,5 +1,5 @@
 # TABLE OF CONTENTS
-***
+
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Current State of the Project](#current-state-of-the-project)
@@ -7,7 +7,6 @@
 * [Deployment](#deployment)
 * [Developer Guide](#developer-guide)
 * [Team](#team)
-
 
 
 # Budget Munchies
