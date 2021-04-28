@@ -34,6 +34,11 @@ This is a mockup of a page where users can add recipes.
 # Testing and Continuous Integration
 ![ci-badge](https://github.com/budget-munchies/budget-munchies-project/workflows/ci-budget-munchies-project/badge.svg)
 
+<a href="https://github.com/DevExpress/testcafe">
+    <img alt="Tested with TestCafe" src="https://img.shields.io/badge/tested%20with-TestCafe-2fa4cf.svg">
+</a>
+
+
 # Current state of the project
 
 ## Landing/home page 
