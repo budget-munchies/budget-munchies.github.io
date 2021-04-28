@@ -20,9 +20,30 @@ Users will be able to share recipes that have information such as cost per meal,
 Students will be able to search, browse, and post recipes to the site. The recipes should at least include full ingredients list, appliance used, a picture of the finished meal, and the directions itself. There will be a favorite recipes page and the landing page will have some of the weekly favorites from the users. 
 
 # User Guide
-This will be finalized for M2 closer to the deadline. Up to date screenshots and explanation of functionality goes here. Guiding user through what we currently have. 
+## Landing (Signed Out)
+Upon visiting the Budget Munchies site, you will arrive on the initial landing page, without user sign in.
 
-# Mockups
+<img src="/m2landing.png">
+## Sign-in Page
+This is the sign in page that you will see after clicking login. 
+<img src="/m2signin.png">
+## Landing (Signed In)
+This is the landing page after user sign in. Sign in enables you to see additional pages and elements. 
+<img src="/m2signedinlanding.png">
+## Add recipe Page
+This page shows the add recipes function. Recipes can be submitted to the website and much include specific details such as appliance, type of meal, dietary restrictions, etc. 
+<img src="/m2add.png">
+## List Recipes Page
+This page will show a list of recipes. It currently shows a stock table database. 
+<img src="/m2list.png">
+## Browse Recipes dropdown Menu
+Brose recipes is a dropdown menu that allows you to click on the specific type of meal you are searching for. 
+<img src="/m2browse.png">
+## Search
+You will be able to search for specific recipes. This also shows our 'not found' page becuase search is currently not implemented. 
+<img src="/m2search.png">
+
+# Design Mockups
 ### Mockup landing page
 This is the original team favorite design of our landing page. Our team all created test landing page mockups and we went with this one for the design and color scheme. 
 <img src="/land.png">
