@@ -5,7 +5,7 @@ Wlecome to the Budget Munchies home page!
 This project offers a solution for college students on the hunt for recipes that are cheap, easy to make, and have limited ingredients. 
 Users will be able to share recipes that have information such as cost per meal, appliances needed, dietary restrictions, time it takes to make, etc. 
 
-Students will be able to search, browse, filter, and post recipes to the site. The recipes should at least include full ingredients list, appliance used, a picture of the finished meal, and the directions itself. 
+Students will be able to search, browse, and post recipes to the site. The recipes should at least include full ingredients list, appliance used, a picture of the finished meal, and the directions itself. There will be a favorite recipes page and the landing page will have some of the weekly favorites from the users. 
 
 # User Guide
 This will be finalized for M2 closer to the deadline. Up to date screenshots and explanation of functionality goes here. Guiding user through what we currently have. 
