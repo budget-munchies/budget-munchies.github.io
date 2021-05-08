@@ -6,6 +6,7 @@ Welcome to the Budget Munchies home page!
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Current State of the Project](#current-state-of-the-project)
 * [Project Pages](#project-pages)
 * [Deployment](#deployment)
@@ -96,6 +97,12 @@ This is a mockup of a page where users can add recipes.
 # Github Organization
 
 [Budget Munchies](https://github.com/budget-munchies)
+
+# Community Feedback
+
+Our team had five individuals test our project in order to give us valuable feedback on how we can improve everything from the functionality to the color scheme. 
+
+Reviewer 1: "The purpose of the website is clear and makes sense. The color scheme is very calm and inviting, but I would have added something slightly color blocking. The colors are nice but they run together and make the site look a little bland in my opinion. The site also resembles something from the 90's. I think making it a look mroe modern would be cooler. I like the idea though!" 
 
 # Developer Guide
 This guide is an explanation of how to download, install, and run the system via github, meteor, and terminal/command line.
