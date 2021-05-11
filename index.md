@@ -196,21 +196,5 @@ To best understand this application, it is useful to familiarize yourself with:
 * [Uniforms](https://uniforms.tools/). Uniforms is a library for simplifying form management with React, and includes built-in integration with Semantic UI.
 
 
-# Mockup ideas
-* Landing page
-* User home page
-* Admin home page
-* User profile page
-* Add Recipe page
-* Filter/browse recipes Page
-* Vendor info page
-
-# Possible Extras
-* Maps for locating vendors
-* Ratings and review system for recipes
-* Ratings and review system for vendors
-* Notification system for vendors when new items are posted in recipes so they can update their listing to indicate whether they stock it or not
-* Notification system when price for a recipe drops substantially (i.e. a vendor puts an item on sale.)
-
 # Team
 [Sydney](https://sydney-c7.github.io), [Kieran](https://kieran-k.github.io), [Marissa](https://marissahalim.github.io), [Nanami](https://nakimoto.github.io)
