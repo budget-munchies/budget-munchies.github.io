@@ -44,10 +44,6 @@ This page will show a list of recipes. It currently shows a stock table database
 Brose recipes is a dropdown menu that allows you to click on the specific type of meal you are searching for. 
 <img src="/m2browse.png">
 
-## Search
-You will be able to search for specific recipes. This also shows our 'not found' page becuase search is currently not implemented. 
-<img src="/m2search.png">
-
 # Design Mockups
 ### Mockup landing page
 This is the original team favorite design of our landing page. Our team all created test landing page mockups and we went with this one for the design and color scheme. 
@@ -70,9 +66,9 @@ This is a mockup of a page where users can add recipes.
 [Budget Munchies deployed on Digital Ocean](https://budgetmunchies.xyz/#/)
 
 ## Testing and Continuous Integration
-### Current testcafe results locally as of M2 completion.
+### Current testcafe results
 
-<img src="/testcafe.png">
+
 
 ![ci-badge](https://github.com/budget-munchies/budget-munchies-project/workflows/ci-budget-munchies-project/badge.svg)
 
