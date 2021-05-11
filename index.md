@@ -106,6 +106,8 @@ Reviewer 1: "The purpose of the website is clear and makes sense. The color sche
 
 Reviewer 2: "I like the design a lot. I think it looks like a restaurant. Wouldn't this be better as a phone app? If you made this into a phone app it would be more applicable to college students I think. If I wa smaking this, I would have a section where people could leave reviews or notes on the recipes. Kind of like when you go to a recipe site, people will write in the comments "this recipe sucked" or "this didn't work out for me". That way, people can explain if the got a problem, someone can say how they fixed it or different ingredient changes. Oh I think having a converter would be good, so you can adjust recipe to show ingredient quantity to make for different serving amounts."
 
+Reviewer 3:  "I recommend changing the font. The website looks really old. I think having some sort of interactive features or something to make it look up to date would make it more appealing. The text would look better if it was white instead of the muted color you have now. It would stand out and grab attention more."
+
 # Developer Guide
 This guide is an explanation of how to download, install, and run the system via github, meteor, and terminal/command line.
 
