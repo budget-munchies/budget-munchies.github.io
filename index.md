@@ -21,30 +21,106 @@ Users will be able to share recipes that have information such as cost per meal,
 Students will be able to search, browse, and post recipes to the site. The recipes should at least include full ingredients list, appliance used, a picture of the finished meal, and the directions itself. There will be a favorite recipes page and the landing page will have some of the weekly favorites from the users. 
 
 # User Guide
-## Landing (Signed Out)
+## Landing Page (Signed Out)
 Upon visiting the Budget Munchies site, you will arrive on the initial landing page, without user sign in.
-<img src="/m2landing.png">
+<img src="/land2.png">
+
+## Login Options Page
+This is what you will see when you click on the login option at the top right.
+
+<img src="/loginoptions.png">
+
 ## Sign-in Page
-This is the sign in page that you will see after clicking login. 
-<img src="/m2signin.png">
+This is the sign in page. If you don't have an account with Budget Munchies, you can create one! 
+<img src="/login.png">
+
+## Sign-up Page
+
+<img src="/signup.png">
 
 ## Landing (Signed In)
-This is the landing page after user sign in. Sign in enables you to see additional pages and elements. 
-<img src="/m2signedinlanding.png">
+This is the landing page after user sign-in. Signing in enables you to see additional pages and elements. 
 
-## Add recipe Page
-This page shows the add recipes function. Recipes can be submitted to the website and much include specific details such as appliance, type of meal, dietary restrictions, etc. 
-<img src="/m2add.png">
-
-## List Recipes Page
-This page will show a list of recipes. It currently shows a stock table database. 
-<img src="/m2list.png">
+<img src="/signedinlanding.png">
 
 ## Browse Recipes dropdown Menu
-Brose recipes is a dropdown menu that allows you to click on the specific type of meal you are searching for. 
-<img src="/m2browse.png">
+You can click on the browse recipes button that will present you with a dropdown menu. You can select the type of meal recipes you would like to browse. 
 
-# Design Mockups
+<img src="/browserecipes.png">
+
+### Breakfast Page
+This is the breakfast page that shows all of the breakfast recipes on the site.
+
+<img src="/breakfast.png">
+
+### Lunch Page
+This is the lunch page that shows all of the lunch recipes on the site.
+
+<img src="/lunches.png">
+
+### Dinner Page
+This is the dinner page that shows all of the dinner recipes on the site.
+
+<img src="/dinners.png">
+
+### Snack Page
+This is the snack page that shows all of the snack recipes on the site.
+
+<img src="/snacks.png">
+
+### Dessert Page
+This is the desserts page that shows all of the breakfast recipes on the site.
+
+<img src="/desserts.png">
+
+## Add Recipes Page
+This page allows you to add recipes to the site under your username. 
+
+<img src="/addrecipe.png">
+
+## My Recipes Page
+This page will show a list of recipes. It currently shows a stock table database. 
+
+<img src="/myrecipes.png">
+
+### Edit Recipes Page
+After navigating to your "My Recipes" page, you can select an option to edit a recipe you have published. 
+
+<img src="/editrecipe.png">
+
+## Vendors
+This page contains information about a few of staff's favorite vendors! 
+
+<img src="/vendors.png">
+
+### Comments
+Users can leave comments about the vendors directly on the vendors page. 
+
+<img src="/comment.png">
+
+## User Profile
+After signing in, the user can click the top right drop down where their username is, and access some options.
+
+<img src="/userprofile.png">
+
+### My Profile
+Clicking "My Profile" Will take you to your dedicated user profile.
+
+<img src="/userprofile2.png">
+
+### My Favorites
+Clicking "My Favorites" will take you to a page that shows all of your favorited recipes! If you haven't favorited anything it will display this message:
+
+<img src="/myfavorites.png">
+
+## Sign-out
+After you're finished visiting the website, you can sign out! This is the page that will be displayed to you. 
+
+<img src="/signout.png">
+
+# Original Design Mockups
+These were our original mockups while we were in the planning phase of our application.
+
 ### Mockup landing page
 This is the original team favorite design of our landing page. Our team all created test landing page mockups and we went with this one for the design and color scheme. 
 <img src="/land.png">
