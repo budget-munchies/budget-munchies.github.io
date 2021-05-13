@@ -290,7 +290,8 @@ This is a mockup of a page where users can add recipes.
 
 # Community Feedback
 
-Our team had five individuals test our project in order to give us valuable feedback on how we can improve everything from the functionality to the color scheme. 
+Our team had six individuals test our project in order to give us valuable feedback on how we can improve everything from the functionality to the color scheme. 
+If you would like to give feedback on our application, please contact one of the Budget Munchies developers at the bottom of this page. 
 
 Reviewer 1: "The purpose of the website is clear and makes sense. The color scheme is very calm and inviting, but I would have added something slightly color blocking. The colors are nice but they run together and make the site look a little bland in my opinion. The site also resembles something from the 90's. I think making it a look mroe modern would be cooler. I like the idea though!" 
 
@@ -300,6 +301,9 @@ Reviewer 3:  "I recommend changing the font. The website looks really old. I thi
 
 Reviewer 4: "The website looks very nice and it is easy to use. Signup process is simple and enjoyed the layout of the recipes. If I could recommend one thing it would be the ability to filter to show only vegan recipes, that would save me time if I were using the site since I am vegan."
 
+Reviewer 5: "I like all the functions of the website and I think it would be cool to include a search bar or filter system when the number of recipes increase. I think Add Recipe and My Recipes could have been under the dropdown menu of the use instead in the navbar since those functions are them. Some issues I see with the designs are that the last recipe in the home page is cut off. I also think it would've been better to divide the page horizontally instead of vertically because that is how our eyes naturally move when reading."
+
+Reviewer 6: "The overall functions for the website is good. I wish the website used red or white in the color scheme instead of the muted blues. A lot of food companies use the color red because it is the color of enticement so incorporating it would have been great. The form to add the recipe is long and should be more condensed in order to not overwhelm the user. I wish I  could upload my own image instead of having to use a url. Also, for images displayed when you click on a recipe, I think it should be more even."
 
 # Team
 [Sydney](https://sydney-c7.github.io), [Kieran](https://kieran-k.github.io), [Marissa](https://marissahalim.github.io), [Nanami](https://nakimoto.github.io)
