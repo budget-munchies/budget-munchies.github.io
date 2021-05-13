@@ -180,6 +180,8 @@ Reviewer 2: "I like the design a lot. I think it looks like a restaurant. Wouldn
 
 Reviewer 3:  "I recommend changing the font. The website looks really old. I think having some sort of interactive features or something to make it look up to date would make it more appealing. The text would look better if it was white instead of the muted color you have now. It would stand out and grab attention more."
 
+Reviewer 4: "The website looks very nice and it is easy to use. Signup process is simple and enjoyed the layout of the recipes. If I could recommend one thing it would be the ability to filter to show only vegan recipes, that would save me time if I were using the site since I am vegan."
+
 # Developer Guide
 This guide is an explanation of how to download, install, and run the system via github, meteor, and terminal/command line.
 
