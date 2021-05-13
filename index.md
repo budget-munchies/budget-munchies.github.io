@@ -6,11 +6,12 @@ Welcome to the Budget Munchies home page!
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Administrator Guide](#administrator-guide)
 * [Community Feedback](#community-feedback)
 * [Current State of the Project](#current-state-of-the-project)
 * [Project Pages](#project-pages)
 * [Deployment](#deployment)
-* [Developer Guide](#developer-guide)
 * [Team](#team)
 
 
@@ -118,70 +119,6 @@ After you're finished visiting the website, you can sign out! This is the page t
 
 <img src="/signout.png">
 
-# Original Design Mockups
-These were our original mockups while we were in the planning phase of our application.
-
-### Mockup landing page
-This is the original team favorite design of our landing page. Our team all created test landing page mockups and we went with this one for the design and color scheme. 
-<img src="/land.png">
-
-### Alternative landing page
-This is an alternative of the lading page. It looks similar to the original landing page with some tweaks. This was created after deciding the colors and design we wanted to follow.  
-<img src="/signin-signup.PNG">
-
-### Mockup user home page
-This is the mockup design for the user home page. When the user signs in, or signs up, this is the page they will be directed to after. 
-<img src="/user-home.PNG">
-
-### Mockup add recipe page
-This is a mockup of a page where users can add recipes. 
-<img src="/add-recipe.PNG">
-
-# Deployment 
-
-[Budget Munchies deployed on Digital Ocean](https://budgetmunchies.xyz/#/)
-
-## Testing and Continuous Integration
-### Current testcafe results
-
-
-
-![ci-badge](https://github.com/budget-munchies/budget-munchies-project/workflows/ci-budget-munchies-project/badge.svg)
-
-<a href="https://github.com/DevExpress/testcafe">
-    <img alt="Tested with TestCafe" src="https://img.shields.io/badge/tested%20with-TestCafe-2fa4cf.svg">
-</a>
-
-# Current state of the project
-  Please view the [User Guide](#user-guide) for the current state of the project. 
-# Project Pages
-
-### M1
-[Milestone 1 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/1)
-
-### M2
-[Milestone 2 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/2)
-
-### M3
-
-[Milestone 3 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/3)
-
-# Github Organization
-
-[Budget Munchies](https://github.com/budget-munchies)
-
-# Community Feedback
-
-Our team had five individuals test our project in order to give us valuable feedback on how we can improve everything from the functionality to the color scheme. 
-
-Reviewer 1: "The purpose of the website is clear and makes sense. The color scheme is very calm and inviting, but I would have added something slightly color blocking. The colors are nice but they run together and make the site look a little bland in my opinion. The site also resembles something from the 90's. I think making it a look mroe modern would be cooler. I like the idea though!" 
-
-Reviewer 2: "I like the design a lot. I think it looks like a restaurant. Wouldn't this be better as a phone app? If you made this into a phone app it would be more applicable to college students I think. If I wa smaking this, I would have a section where people could leave reviews or notes on the recipes. Kind of like when you go to a recipe site, people will write in the comments "this recipe sucked" or "this didn't work out for me". That way, people can explain if the got a problem, someone can say how they fixed it or different ingredient changes. Oh I think having a converter would be good, so you can adjust recipe to show ingredient quantity to make for different serving amounts."
-
-Reviewer 3:  "I recommend changing the font. The website looks really old. I think having some sort of interactive features or something to make it look up to date would make it more appealing. The text would look better if it was white instead of the muted color you have now. It would stand out and grab attention more."
-
-Reviewer 4: "The website looks very nice and it is easy to use. Signup process is simple and enjoyed the layout of the recipes. If I could recommend one thing it would be the ability to filter to show only vegan recipes, that would save me time if I were using the site since I am vegan."
-
 # Developer Guide
 This guide is an explanation of how to download, install, and run the system via github, meteor, and terminal/command line.
 
@@ -268,6 +205,100 @@ To best understand this application, it is useful to familiarize yourself with:
 * [Semantic UI React](https://react.semantic-ui.com/). We use Semantic UI for this template.
 
 * [Uniforms](https://uniforms.tools/). Uniforms is a library for simplifying form management with React, and includes built-in integration with Semantic UI.
+
+# Administrator Guide
+
+## Landing Page (Administrator Signed-in)
+
+Upon logging in as administrator, the landing page will look like this. You will notice an additional "admin features" option on the navigational bar.
+
+<img src="/adminhome.png">
+
+## Admin Feautures
+
+The dropdown menu for admin features shows two options, add a vendor and list all recipes. 
+
+<img src="/adminfeatures.png">
+
+### Adding a Vendor
+
+<img src="/adminvendor.png">
+
+### Listing All Recipes
+
+<img src="/adminrecipes.png">
+
+## Admin Page
+
+Additionally, you can access the admin profile page and favorites page the same as users can. 
+
+<img src="/admindrop.png">
+
+<img src="/adminpage.png">
+
+<img src="/adminfavs.png">
+
+# Original Design Mockups
+These were our original mockups while we were in the planning phase of our application.
+
+### Mockup landing page
+This is the original team favorite design of our landing page. Our team all created test landing page mockups and we went with this one for the design and color scheme. 
+<img src="/land.png">
+
+### Alternative landing page
+This is an alternative of the lading page. It looks similar to the original landing page with some tweaks. This was created after deciding the colors and design we wanted to follow.  
+<img src="/signin-signup.PNG">
+
+### Mockup user home page
+This is the mockup design for the user home page. When the user signs in, or signs up, this is the page they will be directed to after. 
+<img src="/user-home.PNG">
+
+### Mockup add recipe page
+This is a mockup of a page where users can add recipes. 
+<img src="/add-recipe.PNG">
+
+# Deployment 
+
+[Budget Munchies deployed on Digital Ocean](https://budgetmunchies.xyz/#/)
+
+## Testing and Continuous Integration
+### Current testcafe results
+
+![ci-badge](https://github.com/budget-munchies/budget-munchies-project/workflows/ci-budget-munchies-project/badge.svg)
+
+<a href="https://github.com/DevExpress/testcafe">
+    <img alt="Tested with TestCafe" src="https://img.shields.io/badge/tested%20with-TestCafe-2fa4cf.svg">
+</a>
+
+# Current state of the project
+  Please view the [User Guide](#user-guide) for the current state of the project. 
+# Project Pages
+
+### M1
+[Milestone 1 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/1)
+
+### M2
+[Milestone 2 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/2)
+
+### M3
+
+[Milestone 3 Project Board](https://github.com/budget-munchies/budget-munchies-project/projects/3)
+
+# Github Organization
+
+[Budget Munchies](https://github.com/budget-munchies)
+
+# Community Feedback
+
+Our team had five individuals test our project in order to give us valuable feedback on how we can improve everything from the functionality to the color scheme. 
+
+Reviewer 1: "The purpose of the website is clear and makes sense. The color scheme is very calm and inviting, but I would have added something slightly color blocking. The colors are nice but they run together and make the site look a little bland in my opinion. The site also resembles something from the 90's. I think making it a look mroe modern would be cooler. I like the idea though!" 
+
+Reviewer 2: "I like the design a lot. I think it looks like a restaurant. Wouldn't this be better as a phone app? If you made this into a phone app it would be more applicable to college students I think. If I wa smaking this, I would have a section where people could leave reviews or notes on the recipes. Kind of like when you go to a recipe site, people will write in the comments "this recipe sucked" or "this didn't work out for me". That way, people can explain if the got a problem, someone can say how they fixed it or different ingredient changes. Oh I think having a converter would be good, so you can adjust recipe to show ingredient quantity to make for different serving amounts."
+
+Reviewer 3:  "I recommend changing the font. The website looks really old. I think having some sort of interactive features or something to make it look up to date would make it more appealing. The text would look better if it was white instead of the muted color you have now. It would stand out and grab attention more."
+
+Reviewer 4: "The website looks very nice and it is easy to use. Signup process is simple and enjoyed the layout of the recipes. If I could recommend one thing it would be the ability to filter to show only vegan recipes, that would save me time if I were using the site since I am vegan."
 
 
 # Team
