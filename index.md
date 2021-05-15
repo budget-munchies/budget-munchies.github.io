@@ -214,7 +214,7 @@ Upon logging in as administrator, the landing page will look like this. You will
 
 <img src="/adminhome.png">
 
-## Admin Feautures
+## Admin Features
 
 The dropdown menu for admin features shows two options, add a vendor and list all recipes. 
 
