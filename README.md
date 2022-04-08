@@ -302,5 +302,5 @@ Reviewer 4: "The website looks very nice and it is easy to use. Signup process i
 
 
 # Team
-[Sydney](https://sydney-c7.github.io), [Kieran](https://kieran-k.github.io), [Marissa](https://marissahalim.github.io), [Nanami](https://nakimoto.github.io)
+[Nanami](https://nakimoto.github.io),[Sydney](https://sydney-c7.github.io), [Kieran](https://kieran-k.github.io), [Marissa](https://marissahalim.github.io), 
 
